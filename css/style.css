@@ -6,8 +6,9 @@
 
 .navbar {
     width: 100%;
-    background-color: #793FD1;
+    background-color: #C8A2C8;
     overflow: auto;
+	height: 13.5rem;
 }
 
 /* Navigation links */
@@ -30,7 +31,7 @@
 
 /* Add a background color on mouse-over */
 .navbar a:hover {
-    background-color: #000;
+    background-color: #FFF;
 }
 
 /* Style the current/active link */
@@ -63,14 +64,14 @@
     margin: 1rem;
     padding: 2rem;
     color: #FFF;
-    font-size: .9rem;
+    font-size: 1rem;
     font-weight: bold;
     text-align: left;
     border-width: 10px;
     border-radius: 30px;
     border-color: midnightblue;
     border-style: solid;
-    background-color: mediumpurple;
+    background-color: #C8A2C8;
 }
 
 //put at bottom of css
