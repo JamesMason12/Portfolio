@@ -8,7 +8,7 @@
     width: 100%;
     background-color: #C8A2C8;
     overflow: auto;
-	height: 13.5rem;
+	height: 4rem;
 }
 
 /* Navigation links */
@@ -21,7 +21,7 @@
     padding-bottom: 12px;
     color: black;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 27px;
     height: 100%;
     width: 25%;
     /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
@@ -45,15 +45,17 @@
 }
 
 .pic {
-    position: absolute;
-    width: 20%;
+    position: 3rem;
+	width: inherit;
+	height: inherit;
+/*    width: inherit;*/
     margin: 3rem;
     top: 200px;
     right: 50px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
-    border-color: red;
+    border-color: mediumpurple;
     border-style: solid;
 
 }
@@ -72,10 +74,20 @@
     border-color: midnightblue;
     border-style: solid;
     background-color: #C8A2C8;
+	font-size: 20px;
 }
 
+.flex-container{
+	display: flex;
+	height: 500px;
+	align-items: baseline;
+	
+}
+
+
+
 //put at bottom of css
-.flex-container {
+//.flex-container {
     display: flex;
     flex-flow: row nowrap;
     flex-direction: row;
@@ -84,7 +96,7 @@
     border: 5px solid #42352c;
 }
 
-.child0 {
+//.child0 {
     flex-basis: 20%;
     padding: 1rem;
     height: 10%;
@@ -102,7 +114,7 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
-.child1 {
+//.child1 {
     flex-basis: 20%;
     height: 10%;
     margin: auto;
@@ -120,7 +132,7 @@
 
 }
 
-.child2 {
+//.child2 {
     flex-basis: 40%;
     padding: 1rem;
     height: 10%;
