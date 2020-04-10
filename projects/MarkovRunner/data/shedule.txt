@@ -1,0 +1,179 @@
+
+ Schedule for the week of March 9! 2020
+
+Monday: 
+
+Finish Acronyms:  AcronymHelp 
+Then, Start Markov Chains!  MarkovHelperEasterEgg 
+Standard Lab!  
+Tuesday:  Markov chains!  Premium!
+
+Wednesday: Premium!
+
+Thursday: Some show and tell…finish the project.
+
+Friday: Recursion! Read the readings for each unit!
+
+SetsMapsReading 
+Iterating over a map! 
+Recursion reading
+Recursion video
+////////////////////
+
+Next week: 
+
+Recursion N Stacks! 
+portfolio links are here
+youtube fixer! thanks to Alex Moran! 
+
+ Schedule for the week of March 9! 2020
+
+Monday: 
+
+Finish Acronyms:  AcronymHelp 
+Then, Start Markov Chains!  MarkovHelperEasterEgg 
+Standard Lab!  
+Tuesday:  
+
+Markov chains and probabilistic modeling!
+Write the methods first, then choose, parse, and markov your own data!
+Music lyrics?
+poetry?
+A speech?
+Horoscopes?
+Aphorisms?
+Fortune cookies?
+FairyTales?
+A day in the life?
+Standard!
+Wednesday: 
+
+Up front or in back?
+ 
+
+Thursday: Premium!  
+
+DUE TOMORROW: NOTES ON:
+Recursion video1
+Recursion call stack2
+Recurson stack frame3
+ 
+
+Friday: Recursion! Some show and tell…finish the project!
+
+SetsMapsReading 
+Iterating over a map! 
+Recursion reading
+////////////////////
+
+Next week: 
+
+Recursion N Stacks! 
+find data (coronavirus?)
+portfolio links are here
+portfolio sets and maps
+youtube fixer! thanks to Alex Moran!
+
+	
+ 
+
+Schedule for the week of February 24th! 2020
+
+ 
+
+Monday: Map Week! Standard!  Iterating over a map!
+
+Tuesday:  youtube fixer! thanks to Mr. Alex Moran!
+
+4th
+
+    1. Luke: Tesla!
+
+    2. Diana Huynh & Natasha Lawer:
+
+Smart visors (CES)
+
+    3.  Doug
+
+5th
+
+Keegan: Swim cap for the blind
+
+ 
+
+Wednesday: Premium!
+
+Thursday: Deluxe!
+
+Friday: More Maps! Due: Who was Andrey Markov?
+
+What is machine learning?  2 topics 2 paragraphs 2
+
+citations word processed!
+
+ 
+
+
+
+
+ Read about the Map interface here and here 
+or a video about Maps here. .. 
+(take and bring in notes from the video!)
+  
+
+////////////////////
+
+Next week: Finals FRQ! 
+
+OnDeck: Recursion!Stacks! 
+
+portfolio links are here
+
+	
+Schedule for the week of February 17th! 2020
+
+Monday: Free!
+
+Tuesday: Maps!
+
+ DUE--read about the Map interface here and here or a video about Maps here. .. 
+
+(take and bring in notes from the video!)
+
+Show and tell!!
+
+Wednesday:  youtube fixer! thanks to Mr. Alex Moran!
+
+4th
+
+Luke: Tesla!
+
+Diana Huynh & Natasha Lawer: Smart visors (CES)
+
+Adam King, Sreeman Taltaman
+
+Aaron and Doug
+
+Alex, Mady
+
+5th
+
+Yousif and Jacob
+
+Nyah and Nick
+
+Keegan: Swim cap for the blind
+
+Wednesday: Finish 2 sets labs!
+
+Thursday: Maps! 
+
+Friday: BigO Quiz! Cheat sheets allowed
+
+////////////////////
+
+Next week: Map Weekl!  Iterating over a map!
+
+OnDeck: Stacks! 
+
+portfolio links are here
